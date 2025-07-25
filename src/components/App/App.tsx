@@ -37,8 +37,6 @@ function App() {
 
   return (
     <>
-      b<p>ass</p>
-      {"balls"}
       <div className={css.app}>
         <CafeInfo />
         <VoteOptions
